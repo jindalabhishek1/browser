@@ -1,0 +1,3 @@
+take input for two numbers and perform multiplication , subtraction, addition, division.
+
+Analyse the Ram dump for malware and generate ur own report.
